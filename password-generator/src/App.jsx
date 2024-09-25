@@ -47,9 +47,6 @@ function App() {
     window.navigator.clipboard.writeText(password);
   }, [password]);
 
-
-  
-
   return (
     <>
       <div
